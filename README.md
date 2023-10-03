@@ -30,10 +30,13 @@ npm install knex
 ## :handshake: Colaboradores
 <table>
   <tr>
-    <td align="center">
+   <td align="center">
+      <a href="http://github.com/Geana-Almeida">
+        <img src="Avatar.png" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
         <sub>
           <b>GeanaAlmeida</b>
         </sub>
+      </a>
     </td>
   </tr>
 </table>
